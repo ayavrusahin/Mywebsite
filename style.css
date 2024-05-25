@@ -1,0 +1,123 @@
+html{
+    font-family: sans-serif;
+}
+*{
+    background-color: #E84545;
+}
+
+#summary{
+    background-color: #2B2E4A;
+    width: 1910pxpx;
+    margin: 0;
+    padding: 10px;
+    box-shadow: 5px -4px #2b2e4a77;
+}
+
+#container{
+    width: 100%;
+    float: left;
+    height: 300px;
+    background-color: #E84545;
+    margin: 0% 0% 10px 0%;
+}
+
+#skills{
+    width: 210px;
+    float: left;
+    height: 300px;
+    background-color: #2B2E4A;
+    box-shadow: 5px -4px #2b2e4a77;
+}
+
+#education{
+    width: calc(100% - 251px);
+    float: right;
+    height: 300px;
+    background-color: #2B2E4A;
+    box-shadow: 5px -4px #2b2e4a77;
+}
+
+#certifications{
+    width: 100%;
+    height: 120px;
+    background-color: #2B2E4A;
+    box-shadow: 5px -4px #2b2e4a77;
+    float: left;
+    margin: 0px 0px 10px 0px;
+}
+
+#others{
+    width: 100%;
+    height: 120px;
+    background-color: #2B2E4A;
+    box-shadow: 5px -4px #2b2e4a77;
+    float: left;
+    margin: 0px 0px 10px 0px;
+}
+
+#contact{
+    width: 100%;
+    height: 180px;
+    background-color: #2B2E4A;
+    box-shadow: 5px -4px #2b2e4a77;
+    float: left;
+    margin: 0px 0px 10px 0px;
+}
+
+.vl{
+    border-left: 10px solid #2B2E4A;
+    height: 300px;
+    position: absolute;
+    left: 237px;
+    margin-left: -3px;
+    top: 300px;
+    box-shadow: 5px -4px #2b2e4a77;
+}
+
+h1{
+    color: #2B2E4A;
+}
+
+h2{
+    background-color: #2B2E4A;
+    color: #E84545;
+    margin: 0px 10px 10px 0px;
+}
+
+h3{
+    background-color: #2B2E4A;
+    color: #E84545;
+    margin: 0px;
+    padding: 10px;
+}
+
+p{
+    background-color: #2B2E4A;
+    margin: 0px 0px 25px 0px;
+    color: white;
+}
+
+.education{
+    padding: 0px 0px 0px 15px;
+}
+
+ul, li, a{
+    margin: 10px 0px 10px 0px;
+    color: white;
+    background-color: #2B2E4A;
+}
+
+.sola-kaydir{
+ background-color: #2B2E4A;
+    float: left;
+    margin: 0px;
+    padding: 0px 10px 0px 10px;
+
+}
+h6{
+    float: right;
+}
+
+
+
+
